@@ -5,4 +5,5 @@ pkg update && pkg upgrade && pkg install git && pkg install python && pkg instal
 
 
 
-#touch .hushlogim
+to remove prompt text
+touch .hushlogim
