@@ -6,3 +6,6 @@ pkg update && pkg upgrade && pkg install git && pkg install python && pkg instal
 
 # to remove text prompt
 touch .hushlogin
+
+ # Kali 
+apt update && apt upgrade && apt install python && apt install python2 $$ apt install git
