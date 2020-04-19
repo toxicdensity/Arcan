@@ -8,4 +8,4 @@ pkg update && pkg upgrade && pkg install git && pkg install python && pkg instal
 touch .hushlogin
 
  # Kali 
-apt update && apt upgrade && apt install python && apt install python2 $$ apt install git
+apt update && apt upgrade && apt install python && apt install python2 && apt install git
