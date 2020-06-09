@@ -1,6 +1,6 @@
 # Arcan
-pkg update && pkg upgrade && pkg install -y git && pkg install -y  python && pkg install -y python2 && pkg install -y php && pkg install -y  curl && pkg install wget && pkg install bash && pkg install-y nano
-&& pkg install openssh    
+pkg update && pkg upgrade && pkg install -y git && pkg install -y  python && pkg install -y python2 && pkg install -y php && pkg install -y  curl && pkg install -y wget && pkg install bash && pkg install-y nano
+&& pkg install -y openssh    
 
 
 
