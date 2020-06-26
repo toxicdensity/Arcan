@@ -1,14 +1,11 @@
 # Arcan
-pkg update && pkg upgrade && pkg install -y git && pkg install -y  python && pkg install -y python2 && pkg install -y php && pkg install -y  curl && pkg install -y wget && pkg install bash && pkg install-y nano
-&& pkg install -y openssh    
+apt update && apt upgrade && apt install -y git && apt install -y  python && apt install -y python2 && apt install -y php && apt install -y  curl && apt install -y wget && apt install bash && apt install-y nano
+&& apt install -y openssh    
 
 
 
 # to remove text prompt
 touch .hushlogin
-
- # Kali 
-apt update && apt upgrade && apt install python && apt install python2 && apt install git
 
 # Run kali Android 
 
