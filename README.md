@@ -7,9 +7,6 @@ apt update && apt upgrade && apt install  git -y && apt install   python -y  && 
 # to remove text prompt
 touch .hushlogin
 
-# Run kali Android 
-
-pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
 
 
 
